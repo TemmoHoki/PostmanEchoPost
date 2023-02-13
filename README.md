@@ -1,3 +1,3 @@
 # Build status
 
-[![Build status](https://ci.appveyor.com/api/projects/status/txpx9ki75edg5d4u?svg=true)](https://ci.appveyor.com/project/TemmoHoki/testingapi-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/txg037y96k50oqn0?svg=true)](https://ci.appveyor.com/project/TemmoHoki/postmanechopost)
